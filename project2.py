@@ -4,7 +4,7 @@ while True:
     a = input("Enter the amount or type 'exit' to finish: ")
     if a=="exit":
         print("The total is: ", total)
-        print("goodbye")
+        print("goodbye!")
 
         break
     
